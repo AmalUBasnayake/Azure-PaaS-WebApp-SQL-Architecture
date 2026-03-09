@@ -45,7 +45,7 @@ Azure SQL Database (Managed Database)
 
 # 🚀 Deployment Process
 
-## Phase 1 — Infrastructure Provisioning
+## Phase 1 : Infrastructure Provisioning
 
 All resources were deployed within a dedicated **Azure Resource Group**.
 
@@ -61,7 +61,7 @@ Service Tier: Standard S0 (10 DTUs)
 
 ---
 
-## Phase 2 — Secure Application Integration
+## Phase 2 : Secure Application Integration
 
 For security best practices, the database connection string was **not stored inside application code**.
 
@@ -78,7 +78,7 @@ This ensures sensitive credentials remain protected.
 
 ---
 
-## Phase 3 — Application Deployment
+## Phase 3 : Application Deployment
 
 The web application was deployed to **Azure App Service**.
 
