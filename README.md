@@ -57,7 +57,7 @@ Server Name: `amal-sql-server`
 Database Name: `amal-db-01`  
 Service Tier: Standard S0 (10 DTUs)
 
-![SQL Deployment](screenshots/DB-Overview)
+![SQL Deployment](screenshots/DB-Overview.png)
 
 ---
 
@@ -99,7 +99,7 @@ Database Connection: Successful ✔️
 
 https://amal-web-server-2026.azurewebsites.net
 
-![Final Output](Final%20Output.png)
+![Final Output](screenshots/Final-Output.png)
 
 ---
 
