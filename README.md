@@ -84,7 +84,7 @@ The web application was deployed to **Azure App Service**.
 
 The **App Service in-browser editor** was used to verify the connection between the application and the backend SQL database.
 
-![Web Editor](web%20editor.png)
+![Web Editor](screenshots/web-editor.png)
 
 ---
 
