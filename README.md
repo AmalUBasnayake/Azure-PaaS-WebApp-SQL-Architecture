@@ -16,7 +16,7 @@ The solution integrates a **.NET 8 Web Application hosted on Azure App Service**
 
 The following diagram illustrates the full architecture and deployment workflow.
 
-![Architecture Diagram](ArchitectureDB.jpg)
+![Architecture Diagram](Architecture/ArchitectureDB.png)
 
 ### Architecture Flow
 
