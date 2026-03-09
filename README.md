@@ -57,7 +57,7 @@ Server Name: `amal-sql-server`
 Database Name: `amal-db-01`  
 Service Tier: Standard S0 (10 DTUs)
 
-![SQL Deployment](create%20db.png)
+![SQL Deployment](screenshots/DB-Overview)
 
 ---
 
@@ -74,7 +74,7 @@ Instead, it was configured using **App Service Environment Variables**.
 
 This ensures sensitive credentials remain protected.
 
-![Environment Variables](environment%20variables.png)
+![Environment Variables](screenshots/environmentvariables.png)
 
 ---
 
